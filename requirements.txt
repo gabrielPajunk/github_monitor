@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+aiosqlite
+matplotlib
+pandas
+python-jose
+python-multipart
+python-dotenv
+pydantic-settings
